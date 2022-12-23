@@ -42,7 +42,7 @@ Please prepare the following before the workshop:
     
 4. In anaconda navigator, change the environment to the newly created environment
     
-    ![Untitled](Bioimage%20Analysis%20Workshop%20Taipei%20713e3db33cf646a6b17ca62c7449b647/Untitled.png)
+    ![anaconda_change_env](README_images/anaconda_change_env.png)
     
 5. Install Jupyter notebook in this environment
 6. Launch the jupyter notebook

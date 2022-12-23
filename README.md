@@ -10,11 +10,11 @@ Course material for bioimage analysis workshop at Academia Sinica, Taipei. The c
 
 Please prepare the following before the workshop:
 
-- Please install Anaconda ([https://www.anaconda.com/](https://www.anaconda.com/)) on your laptop (Yes, you need a laptop) and follow the “Creating a Python Environment for the workshop” work flow as below for the setup.
+- Please install Anaconda ([https://www.anaconda.com/](https://www.anaconda.com/)) on your laptop (Yes, you need a laptop) and follow the “Setup a Python Environment for the workshop” work flow as below for the setup.
 - If you are not confortable with python, please follow the “Basics in Python” Jupyter notebook to learn the basics of python programming
 - If you want something more to get yourself more comfortable with python programming for image proessing, follow “Basics in Python2” Jupyter notebook. (to be updated)
 
-## Creating a Python Environment for the workshop
+## Setup a Python Environment for the workshop
 
 1. With Anaconda prompt, create a virtual environment with the name “bioimage-analysis”
     

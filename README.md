@@ -31,12 +31,10 @@ Please prepare the following before the workshop:
 3. Install all the necessary packages
     
     ```powershell
-    conda install numpy
-    conda install matplotlib
-    conda install scipy
-    conda install scikit-image
-    conda install ipywidgets
-    
+    conda install numpy matplotlib scipy scikit-image ipywidgets
+    ```
+    Then
+    ```
     jupyter nbextension enable --py --sys-prefix widgetsnbextension
     ```
     
